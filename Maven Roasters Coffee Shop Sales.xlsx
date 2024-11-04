@@ -1,0 +1,33 @@
+Maven Roasters Coffee Shop Sales Analysis
+This project involved analysing transaction data for a coffee company, Maven Roasters, to provide insights into sales patterns and operational recommendations.
+
+Project Tasks
+Data Familiarisation:
+- Determined the number of transactions and analyzed the time period.
+- Identified the products and product categories sold.
+
+Data Transformation:
+- Added a new column to calculate revenue (price * quantity).
+- Created new columns for month and day of the week (displayed as text, e.g., "Jan", "Mon").
+- Extracted the hour from the transaction time.
+
+Data Analysis:
+Created PivotTables for:
+- Revenue by month.
+- Number of transactions by day of the week and by hour.
+- Number of transactions by product category, sorted by volume.
+- Transactions and revenue by product type, filtered to the top 15.
+
+Visualization:
+Inserted PivotCharts, including:
+- A line chart for revenue by month.
+- Column charts for transactions by day of the week and by hour.
+- A bar chart for product category transactions.
+- Assembled the charts into a dashboard layout and added slicers for store location.
+
+Final Steps:
+Polished the dashboard with formatting adjustments, hidden raw data, and removed gridlines.
+
+Key Findings and Recommendations
+Trends: Noted peak transaction periods and popular product categories.
+Recommendations: Suggested optimising staffing schedules and promotional efforts based on high-traffic times and top-selling products.
